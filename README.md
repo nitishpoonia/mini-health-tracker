@@ -90,16 +90,6 @@ We welcome contributions! To contribute:
 
 ---
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## **Contact**
 
-For any questions or feedback, please reach out at **your-email@example.com**.
-
----
-
-Feel free to customize the text, especially the repository URL and contact information.
+For any questions or feedback, please reach out at **nitish.poonia@proton.me**.
